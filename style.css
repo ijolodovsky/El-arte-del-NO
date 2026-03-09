@@ -36,7 +36,7 @@ body::before {
 	height: 320px;
 	left: -80px;
 	top: 8%;
-	background: radial-gradient(circle, rgba(109, 125, 255, 0.55) 0%, rgba(109, 125, 255, 0) 70%);
+	background: radial-gradient(circle, rgba(24, 224, 84, 0.55) 0%, rgba(109, 125, 255, 0) 70%);
 	animation: driftOne 16s ease-in-out infinite;
 }
 
@@ -45,7 +45,7 @@ body::after {
 	height: 360px;
 	right: -110px;
 	bottom: 6%;
-	background: radial-gradient(circle, rgba(111, 235, 255, 0.42) 0%, rgba(111, 235, 255, 0) 70%);
+	background: radial-gradient(circle, rgba(26, 247, 22, 0.42) 0%, rgba(111, 235, 255, 0) 70%);
 	animation: driftTwo 18s ease-in-out infinite;
 }
 
